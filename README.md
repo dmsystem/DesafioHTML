@@ -23,7 +23,6 @@ JavaScript para funcionalidades dinâmicas.
 Clone este repositório:
 
 git clone https://github.com/seu-usuario/amigo-secreto.git
-
 Acesse o diretório do projeto:
 
 cd amigo-secreto
